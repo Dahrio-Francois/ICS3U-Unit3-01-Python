@@ -1,7 +1,7 @@
 #!/usr/bin/env python 3
 #
 # Created by: Dahrio Francois
-# Created on: Novemeber 2020
+# Created on: November 2020
 # this program takes two numbers and adds them together
 #     with user input
 
